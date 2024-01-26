@@ -5,8 +5,8 @@ logging.basicConfig(level=logging.INFO)
 from pyrogram import Client, filters
 from pyrogram.types import Message
 
-m_api_id = 123456 # my.telegram.org/
-m_api_hash = "1234dsfgdff5" # my.telegram.org/
+m_api_id = 23415390 # my.telegram.org/
+m_api_hash = "893de33dd3b9df2e9f06c762d5979e9c" # my.telegram.org/
 m_chat_id = 123456
 
 app = Client("bot", m_api_id, m_api_hash)
